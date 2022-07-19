@@ -66,8 +66,8 @@ parser.add_argument(
 )
 
 parser.add_argument(
-    "-neighbours",
-    help="neighbour parameter for the estimation of mutual information. Higher values reduce the variance but might introduce a bias",
+    "-neighbors",
+    help="neighbor parameter for the estimation of mutual information. Higher values reduce the variance but might introduce a bias",
     default=100,
 )
 
@@ -138,7 +138,7 @@ for epoch in range(epochs + 1):
         print(f"Epoch:{epoch} Train_Loss:{train_loss} Test_Loss:{test_loss}")
         encodings, y = np.asarray(encodings), np.asarray(y).reshape(-1, 1)
         co = ite.cost.MIShannon_DKL(
-            mult=True, kl_co_name="BDKL_KnnK", kl_co_pars={"k": args.neighbours}
+            mult=True, kl_co_name="BDKL_KnnK", kl_co_pars={"k": args.neighbors}
         )
         val = co.estimation(np.hstack((encodings, y)), [emb_dim, 1])
         print(f"MI value:{val}")
