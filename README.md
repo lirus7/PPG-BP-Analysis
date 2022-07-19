@@ -4,10 +4,7 @@ Pulse Wave Analysis </h3>
 
 <h4 align="center"> Suril Mehta, Nipun Kwatra, Mohit Jain, and Daniel McDuff </h4>
 
-This directory consists of code for analysis of PPG signal for the task of Blood Pressure Estimation via Pulse Wave Analysis
-
-The aim of this README is to describe in detail the setup and image processing pipeline for ease of understanding and usage by a beginner user. The readme describes in detail the analysis pipeline, example code snippets, details on the functions and parameters.
-
+This directory consists of code for analysis of PPG signal for the task of Blood Pressure Estimation via Pulse Wave Analysis.
 The aim of this README is to provide the code for the tools published in the paper which includes multi-valued mappings and Mutual Information estimation. 
 
 
