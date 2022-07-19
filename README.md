@@ -5,7 +5,7 @@ Pulse Wave Analysis </h3>
 <h4 align="center"> Suril Mehta, Nipun Kwatra, Mohit Jain, and Daniel McDuff </h4>
 
 This directory consists of code for analysis of PPG signal for the task of Blood Pressure Estimation via Pulse Wave Analysis.
-The aim of this README is to provide the code for the tools published in the paper which includes multi-valued mappings and Mutual Information estimation. 
+The aim of this README is to provide the code for the tools published in the paper which includes filtering Multi-valued mappings and Mutual Information estimation. 
 
 
 ## Dependencies
