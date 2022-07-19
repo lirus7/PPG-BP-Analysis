@@ -84,4 +84,4 @@ The code is for estimation of mutual information using continous ppg_waveforms.
 * `device` : Device for training either CPU or GPU. If GPU add *cuda:gpu_id*. Default is set to `cuda:0`
 
 #### Running Script
-`python main.py --ppg_path <normalized_ppg_path> --label_path <label_values_path> --ite_path <path to information theoretic estimators, present in dependencies> --emb_dim --neighbours --device <cpu/gpu>`
+`python main.py --ppg_path <normalized_ppg_path> --label_path <label_values_path> --ite_path <path to information theoretic estimators, present in dependencies> --emb_dim <emb_dim> --neighbours <neighbors> --device <cpu/gpu>`
