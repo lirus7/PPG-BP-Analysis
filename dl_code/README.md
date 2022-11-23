@@ -7,9 +7,9 @@ Update the dataset_type and save_folder parameter in the files.
 Links for pretrained_models 
 
 ##2-D CNN
--[No-overlap](https://drive.google.com/drive/folders/1i2vBqgK6Po8CWy0SLZrwM6PO_QjFV404?usp=share_link)
--[Domain-overlap](https://drive.google.com/drive/folders/1dBABVDr2_qqZ0mx2oXmN25u2DpBk2Cm6?usp=sharing)
--[Window-overlap](https://drive.google.com/drive/folders/12Po5zY34PnBNWtDvq88-ROawYNTleS4a?usp=share_link)
+- [No-overlap](https://drive.google.com/drive/folders/1i2vBqgK6Po8CWy0SLZrwM6PO_QjFV404?usp=share_link)
+- [Domain-overlap](https://drive.google.com/drive/folders/1dBABVDr2_qqZ0mx2oXmN25u2DpBk2Cm6?usp=sharing)
+- [Window-overlap](https://drive.google.com/drive/folders/12Po5zY34PnBNWtDvq88-ROawYNTleS4a?usp=share_link)
 
 ##1-D CNN
 -[No-overlap](https://drive.google.com/drive/folders/1KAPAeD8wMAyjE0XgA362Suz50lNNWWny?usp=share_link)
