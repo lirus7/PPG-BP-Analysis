@@ -1,4 +1,4 @@
-Code for running the Deep Learning experiments.
+Code for running the Deep Learning experiments from our paper.
 
 #### Running Script
 `python main.py`
