@@ -4,7 +4,7 @@ Code for running the Deep Learning experiments from our paper.
 `python main.py`
 Update the dataset_type and save_folder parameter in the files.
 
-Links for pretrained_models 
+Pretrained_models 
 
 ## 2-D CNN
 - [No-overlap](https://drive.google.com/drive/folders/1i2vBqgK6Po8CWy0SLZrwM6PO_QjFV404?usp=share_link)
